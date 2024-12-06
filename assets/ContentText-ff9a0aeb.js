@@ -1,1 +1,0 @@
-import{u as o,o as s,c as a}from"./index-eb92f0d3.js";const c=["innerHTML"],l={__name:"ContentText",props:["componentData","testStyle"],setup(t){o(n=>({ae58e8ca:t.testStyle.textColor}));const e=t;return(n,_)=>(s(),a("div",{innerHTML:e.componentData.text,class:"content-text"},null,8,c))}};export{l as default};
